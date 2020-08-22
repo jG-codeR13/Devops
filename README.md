@@ -183,4 +183,5 @@ Lastly, run the following command to watch the changes in Kubernetes while the b
 Note: In this demonstration, the replica size is increased from 1 to 10. To test it modify the 'deployment.yaml'.
 
 <h1>Summary</h1>
-Congratulations! You’ve successfully set up a continuous integration environment using Jenkins, Slack, and GitHub. Integrating GitHub with Jenkins automates deployment, testing, and ensures your projects are always up to date.
+Congratulations! By the end of the project, we can successfully set up a continuous integration environment using Jenkins, Slack, and GitHub. Integrating GitHub with Jenkins automates deployment, testing, and ensures our projects are always up to date.
+
