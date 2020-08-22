@@ -1,5 +1,5 @@
 # Devops
-Pipeline code for end to end deployment with email alert
+Pipeline code for end to end deployment with slack notification alert
 <h1>1. Build a Modified Jenkins Image</h1>
 A containerized version of Jenkins does not contain Docker and Docker CLI by default. For this reason, a new Docker image that contains Docker CLI and other tools must be created by using a Jenkins image as a base image.
 
